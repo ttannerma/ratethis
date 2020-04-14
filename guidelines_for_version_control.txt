@@ -1,0 +1,8 @@
+Guidelines for version control
+
+1. Creating a branch
+	- Naming convention for branches: RTMMDDYY-branchName example: RT041420-modifyReadMe 
+2. Merging to devBranch
+	- Create pull request for peer review
+3. Creating a release
+	- Merge devBranch into master
