@@ -1,3 +1,11 @@
+:root {
+  --deep-sky-blue: #01BFFF;
+  --cyan-cornflower-blue: #3190C5;
+  --maya-blue: #5CD1FA;
+  --deep-carmine-pink: #EF3E36;
+  --infra-red: #EF476F;
+}
+
 .App {
   text-align: center;
 }
